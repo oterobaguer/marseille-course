@@ -15,7 +15,7 @@ Go to [https://colab.research.google.com](https://colab.research.google.com).
 
 ### 3) Get the notebooks
 
-Select the GITHUB tab (1) and type `oterobaguer` (2). Then select the `marseille-course` (3) repository (master branch).
+Select the GITHUB tab (1) and type `oterobaguer` (2). Then select the `marseille-course` (3) repository (master branch) and try the `00-simple-notebook` (4) to verify that it works.
 
 ![](google-colab.png)
 
